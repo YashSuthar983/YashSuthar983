@@ -3,7 +3,6 @@
 
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJjcW01dDFtZGkycmNpd2FvaDNsYWhveXg2enQ3aHJzczh6eHppYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif" alt="retro gif" width="350" style="border-radius: 20px; border: 3px solid #ffcc00; box-shadow: 4px 4px 0px #ff003c;">
 
----
 
 <ul style="font-family: 'Press Start 2P', monospace; font-size: 14px; line-height: 1.8; color: #00ff00; list-style: none; padding-left: 0;">
   <li>🌱 Currently learning <b>Backend</b></li>
@@ -12,7 +11,6 @@
   <li>⚡ Fun Fact: A normal guy in a retro world.</li>
 </ul>
 
----
 
 <h3 style="font-family: 'VT323', monospace; font-size: 20px; color: #ffcc00; text-shadow: 2px 2px 0 #ff003c;">🎮 Connect with me:</h3>
 <p>
@@ -28,7 +26,6 @@
 
 </p>
 
----
 
 <h3 style="font-family: 'VT323', monospace; font-size: 20px; color: #ffcc00; text-shadow: 2px 2px 0 #ff003c;">💻 Languages and Tools:</h3>
 <p>
@@ -61,7 +58,6 @@
     </a> 
 </p>
 
----
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashsuthar983&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="border: 2px solid #ffcc00; box-shadow: 4px 4px 0px #ff003c;">
