@@ -24,6 +24,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" style="filter: drop-shadow(2px 2px 0px #ff003c);">
 </a>
 
+<br>
+<br>
+
 </p>
 
 
@@ -57,6 +60,15 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" style="filter: drop-shadow(2px 2px 0px #ff003c);"> 
     </a> 
 </p>
+
+
+
+<p>
+  <br>
+  <br>
+  
+</p>
+
 
 
 <p>
