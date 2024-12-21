@@ -16,10 +16,7 @@
 <p>
   <a href="https://instagram.com/yash_suthar1021" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" style="filter: drop-shadow(2px 2px 0px #ff003c);">
-  </a>
-  <a href="https://codeforces.com/profile/chartara" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" style="filter: drop-shadow(2px 2px 0px #ff003c);">
-  </a>
+  
   <a href="https://linkedin.com/in/yashsuthar983" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" style="filter: drop-shadow(2px 2px 0px #ff003c);">
 </a>
